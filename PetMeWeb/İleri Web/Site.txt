@@ -1,0 +1,5 @@
+Kaybım Var
+Kayıp Buldum
+Sahiplendir
+Evlat Edin(kayıp buldum ilanları listelenecek)
+Kayıplar(Kaybım var ilanları listelenecek)

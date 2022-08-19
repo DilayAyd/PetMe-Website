@@ -1,0 +1,74 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title> PET ME </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" media="all" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="~/css/slider.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/responsiveslides.min.js"></script>
+
+    <script>
+    // You can also use "$(window).load(function() {"
+    $(function () {
+      // Slideshow 1
+      $("#slider1").responsiveSlides({
+         auto: true,
+		 nav: true,
+		 speed: 500,
+		 namespace: "callbacks",
+      });
+    });
+    </script>
+</head>
+<body>
+    <div class="header">
+        <div class="wrap">
+            <div class="logo"><a href="index.html"><img src="~/images/PicsArt_01-16-04.19.15.png" alt="" /></a></div>
+            <div class="con-right">
+                
+                
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="header-bottom">
+        <div class="wrap">
+            <ul id="nav">
+                <li><a href="/Main/Index">Anasayfa</a></li>
+                <li><a class="hsubs" href="/About/Index">Hakkımızda</a></li>
+                <li>
+                    <a class="hsubs" href="#">İlanlar</a>
+                    <ul class="subs">
+                        <li><a href="/Kayip/DostumKayip">Dostum Kayıp</a></li>
+                        <li><a href="/Sahiplendirme/Sahiplendirme">Sahiplendirme</a></li>
+                        <li><a href="/Buldum/KayipBuldum">Kayıp Buldum</a></li>
+                    </ul>
+                </li>
+                <li><a class="hsubs" href="/Bilgiler/Bilgiler">Yararlı Bilgiler</a></li>
+                <li><a href="/Login/Login">Giriş</a></li>
+
+            </ul>
+        </div>
+    </div>
+    
+    <div class"content">
+        @RenderBody()
+    </div>
+    <div class="footer-bottom">
+        <div class="wrap">
+            <div class="bilgi">
+                <p> 2020/2021 İleri Web Dönem Projesidir </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

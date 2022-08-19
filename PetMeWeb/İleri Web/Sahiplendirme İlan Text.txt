@@ -1,0 +1,7 @@
+İlan Verenin Adı,Soyadı:
+Telefon Numarası:
+Bulunduğu İl-İlçe:
+Pati ismi:
+Türü:
+Cinsiyeti:
+Resim:

@@ -1,0 +1,41 @@
+﻿@model PetMeWeb.Models.Siniflar.DostumKayip
+
+@{
+    ViewBag.Title = "YeniKayip";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Kayıp İlanı Ekleme işlemi </h2>
+<br/>
+<form class=" form-group " method="post">
+    @Html.LabelFor(x => x.Baslik)
+    @Html.TextBoxFor(x => x.Baslik, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Tür)
+    @Html.TextBoxFor(x => x.Tür, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.İsim)
+    @Html.TextBoxFor(x => x.İsim, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Yas)
+    @Html.TextBoxFor(x => x.Yas, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Renk)
+    @Html.TextBoxFor(x => x.Renk, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.İl)
+    @Html.TextBoxFor(x => x.İl, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Tarih)
+    @Html.TextBoxFor(x => x.Tarih, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Aciklama)
+    @Html.TextAreaFor(x => x.Aciklama, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.KayipImage)
+    @Html.TextBoxFor(x => x.KayipImage, new { @class = "form-control" })
+     <br/>
+    <button class="btn btn-primary">İlan Ekle</button>
+
+
+</form>

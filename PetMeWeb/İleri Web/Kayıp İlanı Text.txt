@@ -1,0 +1,12 @@
+İlan başlığı:
+Hayvan türü: kedi,köpek,kanatlı,diğer
+Pati İsmi:
+Yaşı:
+Rengi:
+Cinsiyeti:
+Kaybolduğu il:
+Kaybolduğu Tarih:
+İlan Açıklaması:
+Resim:
+İlan Verenin Adı, Soyadı:
+Telefon Numarası:

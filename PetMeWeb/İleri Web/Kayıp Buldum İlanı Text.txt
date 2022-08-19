@@ -1,0 +1,10 @@
+İlan Başlığı:
+Hayvan türü:Kedi,Köpek,Kanatlı,Diğer.
+Cinsiyeti:
+Rengi:
+Resim:
+Bulunduğu İl:
+Bulunduğu Tarih:
+İlan Açıklaması:
+Kayıp Bulanın Adı,Soyadı:
+Telefon Numarası:

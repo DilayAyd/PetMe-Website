@@ -1,0 +1,259 @@
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\PetMeWeb.dll.config
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\PetMeWeb.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\PetMeWeb.pdb
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\csc.exe
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\csc.exe.config
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\csc.rsp
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\csi.exe
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\csi.exe.config
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\csi.rsp
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.AppContext.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Console.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\vbc.exe
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\vbc.exe.config
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\vbc.rsp
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\Antlr3.Runtime.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\Newtonsoft.Json.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.Helpers.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.Mvc.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.Optimization.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.Razor.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.WebPages.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\WebGrease.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.Helpers.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.Mvc.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.Optimization.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.Razor.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.WebPages.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\Newtonsoft.Json.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\Antlr3.Runtime.pdb
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\tr\System.Web.Razor.resources.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\obj\Debug\PetMeWeb.csprojAssemblyReference.cache
+C:\Users\dilay\Desktop\20_21\PetMeWeb\obj\Debug\PetMeWeb.csproj.CopyComplete
+C:\Users\dilay\Desktop\20_21\PetMeWeb\obj\Debug\PetMeWeb.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\obj\Debug\PetMeWeb.pdb
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\EntityFramework.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\EntityFramework.xml
+C:\Users\dilay\Desktop\20_21\PetMeWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\PetMeWeb.dll.config
+C:\Users\akkoy\Desktop\PetMeWeb\bin\PetMeWeb.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\PetMeWeb.pdb
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\csc.exe
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\csc.exe.config
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\csc.rsp
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\csi.exe
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\csi.exe.config
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\csi.rsp
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.AppContext.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Console.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\vbc.exe
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\vbc.exe.config
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\vbc.rsp
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\akkoy\Desktop\PetMeWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\akkoy\Desktop\PetMeWeb\bin\Antlr3.Runtime.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\EntityFramework.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\Newtonsoft.Json.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.Helpers.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.Mvc.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.Optimization.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.Razor.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.WebPages.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\WebGrease.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\EntityFramework.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.Helpers.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.Mvc.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.Optimization.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.Razor.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.WebPages.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\Newtonsoft.Json.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\Antlr3.Runtime.pdb
+C:\Users\akkoy\Desktop\PetMeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\akkoy\Desktop\PetMeWeb\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\tr\System.Web.Razor.resources.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\akkoy\Desktop\PetMeWeb\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\akkoy\Desktop\PetMeWeb\obj\Debug\PetMeWeb.csprojAssemblyReference.cache
+C:\Users\akkoy\Desktop\PetMeWeb\obj\Debug\PetMeWeb.csproj.CoreCompileInputs.cache
+C:\Users\akkoy\Desktop\PetMeWeb\obj\Debug\PetMeWeb.csproj.CopyComplete
+C:\Users\akkoy\Desktop\PetMeWeb\obj\Debug\PetMeWeb.dll
+C:\Users\akkoy\Desktop\PetMeWeb\obj\Debug\PetMeWeb.pdb
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\PetMeWeb.dll.config
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\PetMeWeb.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\PetMeWeb.pdb
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\csc.exe
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\csc.exe.config
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\csc.rsp
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\csi.exe
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\csi.exe.config
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\csi.rsp
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.AppContext.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Console.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\vbc.exe
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\vbc.exe.config
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\vbc.rsp
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\Antlr3.Runtime.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\EntityFramework.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\Newtonsoft.Json.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.Helpers.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.Mvc.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.Optimization.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.Razor.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.WebPages.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\WebGrease.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\EntityFramework.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.Helpers.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.Mvc.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.Optimization.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.Razor.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.WebPages.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\Newtonsoft.Json.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\Antlr3.Runtime.pdb
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\tr\System.Web.Razor.resources.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\obj\Debug\PetMeWeb.csprojAssemblyReference.cache
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\obj\Debug\PetMeWeb.csproj.CopyComplete
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\obj\Debug\PetMeWeb.dll
+C:\Users\dilay\Desktop\21-22 güz\Profesyonel yzm müh uygulamaları\PetMeWeb\PetMeWeb\obj\Debug\PetMeWeb.pdb
